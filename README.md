@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Heshan Siriwardana</h1>
 ![MasterHead](https://user-images.githubusercontent.com/88527082/182120166-0e494dc7-8e6f-48e1-82a2-2d47b6234489.gif)
 
 <h3 align="center">An enthusiastic individual who is keen on learning</h3>
